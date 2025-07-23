@@ -1,5 +1,6 @@
 # SC_shader_cache_dumper
-[logo]: https://github.com/parentsgeeks/SC_shader_cache_dumper/blob/main/favicon.png "Logo SC shader cache dumper"
+
+<img width="256" height="256" alt="favicon" src="https://github.com/user-attachments/assets/c5be68fb-aa7a-4774-af2d-5847d80b2681" />
 
 A shader cache dumper for Star Citizen
 
