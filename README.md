@@ -4,6 +4,7 @@
 
 A shader cache dumper for Star Citizen
 
-Just execute the EXE file to complete the shader cache dumping process.
+Download the latest release.
+Unzip and just execute the EXE file to complete the shader cache dumping process.
 
 See you in the verse!
